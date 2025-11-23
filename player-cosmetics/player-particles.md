@@ -1,6 +1,6 @@
-# Player Particles
+# 🎓 Player Particles
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Player Particles</h2>
 
@@ -10,7 +10,7 @@ AugustaMC has player particles!
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <h3 align="center">To Create A New Particle</h3>
 

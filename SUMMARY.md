@@ -17,8 +17,10 @@
 
 ## 👕 Player Cosmetics&#x20;
 
-* [Cosmetic Menu](player-cosmetics/cosmetic-menu.md)
-* [Player Particles](player-cosmetics/player-particles.md)
+* [🌟 All About Player Cosmetics](player-cosmetics/all-about-player-cosmetics.md)
+* [🎩 Cosmetic Menu](player-cosmetics/cosmetic-menu.md)
+* [🎓 Player Particles](player-cosmetics/player-particles.md)
+* [🐕 Pets](player-cosmetics/pets.md)
 
 ## Guides
 

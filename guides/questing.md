@@ -6,7 +6,7 @@ description: Questing Guide
 
 
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>/q or /quests to open.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>/q or /quests to open.</p></figcaption></figure>
 
 Questing is a huge part of Augusta Towny.&#x20;
 
