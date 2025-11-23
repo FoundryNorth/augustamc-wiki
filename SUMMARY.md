@@ -13,8 +13,11 @@
 
 ## ❓ Questing System
 
-* [Questing System](questing-system/questing-system.md)
-* [Page](questing-system/page.md)
+* [🏁 Questing System](questing-system/questing-system.md)
+
+## Group 1
+
+* [Player Cosmetics](group-1/player-cosmetics.md)
 
 ## Guides
 

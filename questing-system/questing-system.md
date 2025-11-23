@@ -1,4 +1,4 @@
-# Questing System
+# 🏁 Questing System
 
 ## **🧭 Custom Quests**
 
@@ -35,6 +35,14 @@ The quest system allows players to complete objectives across the world for rewa
 * Rare skins
 * Custom items
 * Resource bundles
+
+## How Do I Track Quests?
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Our scoreboard shows your total amount of completes completed and your current active quest! See the text in pink
+
+
 
 {% hint style="success" %}
 Quests can be completed solo, at your own pace.&#x20;
