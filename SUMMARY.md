@@ -15,6 +15,16 @@
 
 * [🏁 Questing System](questing-system/questing-system.md)
 
+## 👷 Jobs and Economy
+
+* [🕵️ Finding Items](jobs-and-economy/finding-items.md)
+* [👷 Introduction to Jobs and Economy](jobs-and-economy/introduction-to-jobs-and-economy.md)
+* [⚒️ Jobs Overview](jobs-and-economy/jobs-overview.md)
+* [🤑 How To Make Money?](jobs-and-economy/how-to-make-money.md)
+* [🛍️ What Is A Player Shop?](jobs-and-economy/what-is-a-player-shop.md)
+* Group 1
+  * [Page 1](jobs-and-economy/group-1/page-1.md)
+
 ## 👕 Player Cosmetics&#x20;
 
 * [🌟 All About Player Cosmetics](player-cosmetics/all-about-player-cosmetics.md)

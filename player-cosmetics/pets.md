@@ -1,6 +1,6 @@
 # 🐕 Pets
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 🐾 Pets Overview
 
@@ -19,7 +19,7 @@ Pets are **purchasable with Coins**, the server’s premium currency.
    * Use **/coinshop**
      *
 
-         <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+         <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
    * Navigate to the **Pets** category.
 3. **Buy Your Pet**
    * Browse the available pets
@@ -34,7 +34,7 @@ Pets **can** rotate seasonally or during special events.
 1. Type **/pets** in-game
    1.
 
-       <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 2. Browse your unlocked pets
 3. Click to **summon** or **despawn** a pet
 4. Your pet will begin following you around

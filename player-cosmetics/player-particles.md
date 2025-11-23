@@ -1,6 +1,6 @@
 # 🎓 Player Particles
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">Player Particles</h2>
 
