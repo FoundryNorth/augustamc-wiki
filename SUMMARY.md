@@ -15,9 +15,10 @@
 
 * [🏁 Questing System](questing-system/questing-system.md)
 
-## Group 1
+## 👕 Player Cosmetics&#x20;
 
-* [Player Cosmetics](group-1/player-cosmetics.md)
+* [Cosmetic Menu](player-cosmetics/cosmetic-menu.md)
+* [Player Particles](player-cosmetics/player-particles.md)
 
 ## Guides
 

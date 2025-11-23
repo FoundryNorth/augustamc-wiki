@@ -14,7 +14,7 @@ If another player kills your pet - dont worry! You can just spawn him in again.
 
 Below are a few examples of our many available pets.
 
-![](<../.gitbook/assets/image (6).png>)![](<../.gitbook/assets/image (7).png>)![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (6) (1).png>)![](<../.gitbook/assets/image (7) (1).png>)![](<../.gitbook/assets/image (8) (1).png>)
 
 ![](<../.gitbook/assets/image (9).png>)![](<../.gitbook/assets/image (10).png>)![](<../.gitbook/assets/image (11).png>)
 

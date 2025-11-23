@@ -6,7 +6,7 @@ description: Questing Guide
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>/q or /quests to open.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>/q or /quests to open.</p></figcaption></figure>
 
 Questing is a huge part of Augusta Towny.&#x20;
 
@@ -14,7 +14,7 @@ By typing /q or /quests, you are able to enable and complete multiple series of 
 
 By completing an entire quest-line, you will recieve one quest crate key.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Photo of Monster Quests</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Photo of Monster Quests</p></figcaption></figure>
 
 
 

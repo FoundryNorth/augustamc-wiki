@@ -38,7 +38,7 @@ The quest system allows players to complete objectives across the world for rewa
 
 ## How Do I Track Quests?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Our scoreboard shows your total amount of completes completed and your current active quest! See the text in pink
 
