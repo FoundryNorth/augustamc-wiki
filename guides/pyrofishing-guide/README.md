@@ -5,7 +5,7 @@ description: >-
   PyroFishing can be fairly complex and time-consuming.
 ---
 
-# Pyrofishing Guide
+# 🎣 Pyrofishing Guide
 
 **General Commands**
 

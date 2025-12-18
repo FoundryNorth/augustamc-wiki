@@ -1,4 +1,4 @@
-# Fishing Totem
+# 🐟 Fishing Totem
 
 ![](<../../.gitbook/assets/image (12).png>)
 

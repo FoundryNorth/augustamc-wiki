@@ -47,3 +47,23 @@ After creating a warp, players can modify it using the GUI or commands.
 ```
 /pw delete <warpname>
 ```
+
+## ⭐ Chest Shops
+
+• To create a shop, left-click a chest/barrel holding at least one of the items you would like to sell. Use **`/qs help`** to see a full list of shop commands in-game.
+
+{% embed url="https://youtu.be/kM9otG8BEx0" %}
+Quick Shop Example
+{% endembed %}
+
+## ⭐ Auction House
+
+• View all auction house listings using **`/ah`**.
+
+• Sell items in the auction house using **`/ah sell [price] [amount]`** while holding what you want to sell.
+
+• Sell up to a chest full of items in one listing using **`/ah sellinventory [price]`**. This will bring up a GUI where you can drop all items you want to sell.
+
+• Search for particular items to buy using **`/ah search [item_name]`** or by using **`/ah`** and clicking the **Categories** button on the bottom right.
+
+• View your buy/sell history using **`/ah history`**.

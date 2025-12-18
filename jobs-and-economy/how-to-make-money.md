@@ -31,15 +31,9 @@ Prices are balanced to prevent inflation while still rewarding players.
 
 **3. Player Shops**
 
-Players can create shops and sell items to other players, often for more money than the Admin Shop.
+Players can create shops and sell items to other players, often for more money than the Admin Shop..
 
-
-
-**4. Marketplace-based money**
-
-Some servers allow /ah or auction systems.
-
-**5. Farming**
+**4. Farming**
 
 One of the most consistent methods:
 
@@ -47,7 +41,7 @@ One of the most consistent methods:
 * Mob breeding
 * Automatic farms (if allowed)
 
-**6. Special Events**
+**5. Special Events**
 
 Seasonal or holiday events may give:
 

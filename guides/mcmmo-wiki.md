@@ -1,4 +1,4 @@
-# MCMMO Wiki
+# ⛵ MCMMO Wiki
 
 Please refer to the amazing previously created Wiki for MCMMO&#x20;
 

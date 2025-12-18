@@ -2,7 +2,7 @@
 description: Ever thought hoppers were boring and didnt do what you wanted them to do?
 ---
 
-# Custom Hoppers
+# 🎉 Custom Hoppers
 
 {% embed url="https://www.youtube.com/watch?v=D6ZO2c4s330" %}
 
@@ -23,19 +23,21 @@ Current features:
 * Blacklist items.
 * And much more!
 
-Commands
+#### Commands
 
-/hoppers
+```
+/hoppers 
+```
 
-/hoppers
+This command allows you to choose between two different upgradeable hoppers!
+
+**Chunk** - Allows you to claim chunks at a time
+
+**Radius** - Allows you to claim within a certain radius around the hopper.
 
 
 
-## Chunk Hoppers
 
-
-
-## Radius Hoppers
 
 
 
