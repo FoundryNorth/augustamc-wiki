@@ -28,17 +28,7 @@ description: >-
 | /ft                   | (Base command for tournaments.)                |
 | /ft info              | (Shows information on the current tournament.) |
 
-**Upgrades**
 
-**Increase Capacity:** _Increases the amount of slots you have for deliveries._
-
-**Overclocked:** _Reduces the time taken to deliver all of your deliveries._
-
-**Expert Deliverer:** _Reduces the amount of fish needed for a fishing delivery. Only applies to normal deliveries._
-
-**Pay Rise:** _Earn more entropy from handing in your deliveries._
-
-**Lucky Charm:** _Reduces the amount of fish you need to fish up to obtain a delivery._
 
 
 

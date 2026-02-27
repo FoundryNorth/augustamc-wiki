@@ -134,39 +134,5 @@ You gain experience simply by fishing.
 
 Each level = **1 Skill Point**.
 
-### **🗿Step 5: Create a Totem**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-Totems provide powerful passive fishing bonuses.
-
-Open:
-
-```
-/fish menu
-```
-
-and click the **Totem of Undying** to view crafting requirements.
-
-After crafting a totem:
-
-1. Place it down.
-2. Activate it using **5 Platinum fish**.
-3. Right-click the observer with a fishing rod.
-
-Inside the totem menu:
-
-* Select a passive ability.
-* Click the Totem of Undying to activate it.
-
-Once active, a visible area appears around the totem.\
-You must fish **inside this area** to receive its bonuses.
-
-You can upgrade your totem to unlock more passive slots using **Platinum or Mythical fish**.
-
-
-
-### Totem Upgrades <a href="#totem-upgrades" id="totem-upgrades"></a>
-
-The Fishing Totem has three main upgrades that cost Entropy. They are listed below. (Note: the cost to upgrade is the previous cost plus a set amount. This amount is listed below). The maximum column is what you can expect if you level up an upgrade to its maximum level.
 
