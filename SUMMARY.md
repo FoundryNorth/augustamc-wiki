@@ -34,6 +34,7 @@
 
 * [⛵ MCMMO Wiki](guides/mcmmo-wiki.md)
 * [🎣 Pyrofishing Guide](guides/pyrofishing-guide/README.md)
+  * [🏁 Quick Start Guide](guides/pyrofishing-guide/quick-start-guide.md)
   * [😆 Augments](guides/pyrofishing-guide/augments.md)
   * [🐟 Fishing Totem](guides/pyrofishing-guide/fishing-totem.md)
 * [🎉 Custom Hoppers](guides/custom-hoppers.md)
