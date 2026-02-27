@@ -2,11 +2,13 @@
 
 ## 🎣 How to Use the PyroFishing Plugin on AugustaMC
 
-### **Step 1: Start Fishing**
+### **🐟Step 1: Start Fishing**
 
 First, craft or obtain a fishing rod and begin fishing.
 
 When you catch your first fish, you’ll notice it is **not** a normal Minecraft fish like Cod or Salmon. PyroFishing adds **custom fish** with different rarities.
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="373"><figcaption></figcaption></figure>
 
 You can check a fish’s rarity by hovering over it. The **name color** indicates rarity.
 
@@ -30,7 +32,7 @@ If your inventory fills while fishing, use the following: This provides extra st
 /fish bag
 ```
 
-### **Step 2: Collect Entropy**
+### **💎Step 2: Collect Entropy**
 
 **Entropy** is the main currency used in PyroFishing.
 
@@ -55,7 +57,9 @@ You can gut fish using:
 ⚠️ Only custom fish can be gutted.\
 ⚠️ It is strongly recommended **NOT** to gut Platinum or Mythical fish (explained in Step 5).
 
-**Deliveries**
+### **Deliveries**
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 /fish deliveries
@@ -63,7 +67,35 @@ You can gut fish using:
 
 Every **180 fish caught** unlocks a delivery. Completing deliveries rewards entropy along with items such as lures, crab claws, and more.
 
-### **Step 3: Craft Augments**
+#### 🚩Upgrades <a href="#upgrades" id="upgrades"></a>
+
+There are five distinctive upgrades that aid you when completing and earning deliveries.&#x20;
+
+They will be outlined below:
+
+Increase Capacity
+
+* Increases the amount of deliveries you can hold at one time.
+
+Overclocked
+
+* Reduces the time taken to deliver all of the deliveries.
+
+Expert Deliverer
+
+* Reduces the fish needed for deliveries.
+
+Pay Rise
+
+* Increases the entropy reward from completing deliveries.
+
+Lucky Charm
+
+* Reduces the amount of fish needed to earn a new delivery.
+
+It is advised to upgrade Lucky Charm and Increase Capacity first to maximize the amount of deliveries that you can earn.
+
+### **🌟Step 3: Craft Augments**
 
 PyroFishing introduces custom fishing enchants called **Augments**.
 
@@ -87,7 +119,7 @@ Apply augments using:
 /fish augment
 ```
 
-#### **Step 4: Upgrade Skills**
+### **💪Step 4: Upgrade Skills**
 
 Open the skills menu with:
 
@@ -102,7 +134,9 @@ You gain experience simply by fishing.
 
 Each level = **1 Skill Point**.
 
-### **Step 5: Create a Totem**
+### **🗿Step 5: Create a Totem**
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Totems provide powerful passive fishing bonuses.
 
@@ -129,4 +163,10 @@ Once active, a visible area appears around the totem.\
 You must fish **inside this area** to receive its bonuses.
 
 You can upgrade your totem to unlock more passive slots using **Platinum or Mythical fish**.
+
+
+
+### Totem Upgrades <a href="#totem-upgrades" id="totem-upgrades"></a>
+
+The Fishing Totem has three main upgrades that cost Entropy. They are listed below. (Note: the cost to upgrade is the previous cost plus a set amount. This amount is listed below). The maximum column is what you can expect if you level up an upgrade to its maximum level.
 

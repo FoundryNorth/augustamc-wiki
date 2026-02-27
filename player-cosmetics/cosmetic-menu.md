@@ -18,6 +18,6 @@ These cosmetics, as seen above, can be earned through crates or the store!
 
 * Click To Equip/ Unequip!
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <p align="center"><strong>Now enjoy your new cosmetic!</strong></p>
