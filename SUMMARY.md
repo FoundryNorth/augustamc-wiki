@@ -32,6 +32,7 @@
 
 ## Guides
 
+* [👕 Armor Cosmetic Sets](guides/armor-cosmetic-sets.md)
 * [⛵ MCMMO Wiki](guides/mcmmo-wiki.md)
 * [🎣 Pyrofishing Guide](guides/pyrofishing-guide/README.md)
   * [🏁 Quick Start Guide](guides/pyrofishing-guide/quick-start-guide.md)

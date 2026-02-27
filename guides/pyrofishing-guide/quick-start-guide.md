@@ -8,7 +8,7 @@ First, craft or obtain a fishing rod and begin fishing.
 
 When you catch your first fish, you’ll notice it is **not** a normal Minecraft fish like Cod or Salmon. PyroFishing adds **custom fish** with different rarities.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="373"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="373"><figcaption></figcaption></figure>
 
 You can check a fish’s rarity by hovering over it. The **name color** indicates rarity.
 

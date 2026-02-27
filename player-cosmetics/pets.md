@@ -19,7 +19,7 @@ Pets are **purchasable with Coins**, the server’s premium currency.
    * Use **/coinshop**
      *
 
-         <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+         <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
    * Navigate to the **Pets** category.
 3. **Buy Your Pet**
    * Browse the available pets
