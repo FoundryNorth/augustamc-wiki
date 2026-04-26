@@ -1,5 +1,7 @@
 # 🕵️ Finding Items
 
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
 ## 🔎 **Finding Items — `/cshop finditem` & `/cshop tobuy`**
 
 Players can search for **ANY item**, see **ALL prices**, and teleport directly to the shop that sells it.

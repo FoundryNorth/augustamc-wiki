@@ -1,7 +1,8 @@
 # Table of contents
 
 * [⛰️ Welcome To The Wiki!](README.md)
-* [🙏 Our Rules](our-rules.md)
+* [🙏 Our Rules](our-rules/README.md)
+  * [How To Ban Appeal](our-rules/how-to-ban-appeal.md)
 
 ## ⛰️ Towny
 
@@ -17,6 +18,10 @@
 
 * [🏁 Questing System](questing-system/questing-system.md)
 
+## 🏆 Ranking System
+
+* [😁 How To Rankup](ranking-system/how-to-rankup.md)
+
 ## 👷 Jobs and Economy
 
 * [👷 Introduction to Jobs and Economy](jobs-and-economy/introduction-to-jobs-and-economy.md)
@@ -24,6 +29,7 @@
 * [🕵️ Finding Items](jobs-and-economy/finding-items.md)
 * [🤑 How To Make Money?](jobs-and-economy/how-to-make-money.md)
 * [🛍️ What Is A Player Shop?](jobs-and-economy/what-is-a-player-shop.md)
+* [AuctionHouse](jobs-and-economy/auctionhouse.md)
 
 ## 👕 Player Cosmetics&#x20;
 
@@ -35,6 +41,7 @@
 ## Guides
 
 * [👕 Armor Cosmetic Sets](guides/armor-cosmetic-sets.md)
+* [Playervaults](guides/playervaults.md)
 * [⛵ MCMMO Wiki](guides/mcmmo-wiki.md)
 * [🎣 Pyrofishing Guide](guides/pyrofishing-guide/README.md)
   * [🏁 Quick Start Guide](guides/pyrofishing-guide/quick-start-guide.md)
