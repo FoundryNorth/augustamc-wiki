@@ -7,6 +7,7 @@
 ## ⛰️ Towny
 
 * [🏗️ What Is Towny?](towny/what-is-towny/README.md)
+  * [🌎 The Different Worlds](towny/what-is-towny/the-different-worlds.md)
   * [📱 Past Season Photos](towny/what-is-towny/past-season-photos.md)
 * [🗼 How To Join A Town](towny/how-to-join-a-town.md)
 * [📋 How To Create A Town](towny/how-to-create-a-town.md)
