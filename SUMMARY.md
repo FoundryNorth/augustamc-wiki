@@ -10,6 +10,8 @@
 * [🗼 How To Join A Town](towny/how-to-join-a-town.md)
 * [📋 How To Create A Town](towny/how-to-create-a-town.md)
 * [🏞️ How To Create A Nation](towny/how-to-create-a-nation.md)
+* [🚵‍♀️ Towny Ranks & Permissions](towny/towny-ranks-and-permissions/README.md)
+  * [💵 Town Taxes](towny/towny-ranks-and-permissions/town-taxes.md)
 
 ## ❓ Questing System
 
