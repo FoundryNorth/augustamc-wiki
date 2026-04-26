@@ -1,6 +1,7 @@
 # Table of contents
 
 * [⛰️ Welcome To The Wiki!](README.md)
+* [📓 Voting System](voting-system.md)
 * [🙏 Our Rules](our-rules/README.md)
   * [How To Ban Appeal](our-rules/how-to-ban-appeal.md)
 
@@ -41,6 +42,7 @@
 
 ## Guides
 
+* [🪅 Pinata Party](guides/pinata-party.md)
 * [👕 Armor Cosmetic Sets](guides/armor-cosmetic-sets.md)
 * [Playervaults](guides/playervaults.md)
 * [⛵ MCMMO Wiki](guides/mcmmo-wiki.md)
