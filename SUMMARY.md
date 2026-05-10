@@ -15,6 +15,12 @@
 * [🏞️ How To Create A Nation](towny/how-to-create-a-nation.md)
 * [🚵‍♀️ Towny Ranks & Permissions](towny/towny-ranks-and-permissions/README.md)
   * [💵 Town Taxes](towny/towny-ranks-and-permissions/town-taxes.md)
+* [🎫 Community Council](towny/community-council/README.md)
+  * [💪 Core Responsibilities](towny/community-council/core-responsibilities.md)
+  * [⁉️ What Can I Do?](towny/community-council/what-can-i-do.md)
+  * [🗒️ Recruitment & Expectations](towny/community-council/recruitment-and-expectations.md)
+  * [🕢 Event Guidelines](towny/community-council/event-guidelines.md)
+  * [📌 Example Event Ideas](towny/community-council/example-event-ideas.md)
 
 ## ❓ Questing System
 
